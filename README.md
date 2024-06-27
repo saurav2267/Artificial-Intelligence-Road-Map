@@ -1,5 +1,12 @@
 # Artificial-Intelligence-Road-Map
 
+# Contents
+
+1. Python Installation
+2. [Python Basics](Python_Basics.ipynb)
+
+
+
 ## Python Installation:
 
 Follow these steps to install Python on your Windows computer.
@@ -21,10 +28,3 @@ Follow these steps to install Python on your Windows computer.
 1. Open Command Prompt.
 2. Type `python --version` and press Enter. Verify the version.
 3. Type `pip --version` to check pip installation.
-
-
-# Contents
-
-1. [Python Basics](Python_Basics.ipynb)
-
-
