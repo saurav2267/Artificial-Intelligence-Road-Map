@@ -21,3 +21,10 @@ Follow these steps to install Python on your Windows computer.
 1. Open Command Prompt.
 2. Type `python --version` and press Enter. Verify the version.
 3. Type `pip --version` to check pip installation.
+
+
+# Contents
+
+1. [Python Basics](docs/Python_Basics.ipynb)
+
+
