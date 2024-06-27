@@ -25,6 +25,6 @@ Follow these steps to install Python on your Windows computer.
 
 # Contents
 
-1. [Python Basics](docs/Python_Basics.ipynb)
+1. [Python Basics](Python_Basics.ipynb)
 
 
