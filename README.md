@@ -2,7 +2,7 @@
 
 # Contents
 
-1. Python Installation
+1. [Python Installation](#Python-Installation)
 2. [Python Basics](Python_Basics.ipynb)
 
 
