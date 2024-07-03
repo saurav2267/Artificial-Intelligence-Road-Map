@@ -4,6 +4,7 @@
 
 1. [Python Installation](#Python-Installation)
 2. [Python Basics](Python_Basics.ipynb)
+3. [Data Structures](Data_Structures.ipynb)
 
 
 
